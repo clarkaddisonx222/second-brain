@@ -24,6 +24,41 @@ pinned: true
 
 ---
 
+## 🏛️ Organization Chart
+
+### Clark Addison Executive Team
+
+| Role | Agent | Status | Domain |
+|------|-------|--------|--------|
+| **🤖 CEO / Executive Assistant** | **Clark Addison** | 🟢 Active | All operations |
+
+---
+
+### Pray150 & South Florida Psalter Team
+
+| Role | Agent | Status | Specialty |
+|------|-------|--------|-----------|
+| 🎵 **Psalter Director** | [[work/projects/pray150-psalter/team/nate-ashford\|Nate Ashford]] | 🟢 Active | Vision & strategy |
+| 📋 **Catalog Manager** | [[work/projects/pray150-psalter/team/micah-torres\|Micah Torres]] | ✅ Complete | Metadata, 150-Psalm tracking |
+| ✍️ **Content Writer** | [[work/projects/pray150-psalter/team/elise-hartwell\|Elise Hartwell]] | ✅ Active | Articles, research |
+| ⛪ **Church Adoption** | [[work/projects/pray150-psalter/team/josiah-crane\|Josiah Crane]] | ✅ Complete | CCLI strategy, pipeline |
+| 📱 **Social Media** | [[work/projects/pray150-psalter/team/mara-kinsley\|Mara Kinsley]] | ⚪ Profiled | Marketing, growth |
+| 🌐 **Web Developer** | [[work/projects/pray150-psalter/team/theo-voss\|Theo Voss]] | 🟡 Building | SFP website |
+| 🎹 **Worship Resources** | [[work/projects/pray150-psalter/team/selah-briggs\|Selah Briggs]] | ⚪ Profiled | Chord sheets, multitracks |
+
+**Team Hub:** [[work/projects/pray150-psalter/team/index|View All Team Profiles →]]
+
+---
+
+### Future Teams
+
+| Domain | Status | Lead |
+|--------|--------|------|
+| **222.Disciple** | ⚪ Planning | TBD |
+| **PROS / PROS Worship** | ⚪ Concept | TBD |
+
+---
+
 ## 🏢 Active Projects
 
 ### [[work/projects/pray150-psalter/index|Pray150 & South Florida Psalter]] 🟢
