@@ -12,6 +12,16 @@ aliases:
 
 ---
 
+## 🎯 Clark Addison Dashboard
+
+**Your unified command center — everything in one place:**
+
+[[dashboard/clark-addison|→ Open Executive Dashboard]]
+
+Quick access to projects, tasks, costs, recent activity, and system status.
+
+---
+
 ## 📌 Pinned Items
 
 > **Quick reminders and important notes**
@@ -62,12 +72,16 @@ aliases:
 | Feb 8, 2026 | [[work/projects/pray150-psalter/index\|Pray150 Overview]] | Migrated full project docs |
 | Feb 8, 2026 | [[work/projects/pray150-psalter/research/elise-research-log\|Elise's Research Log]] | Added worship renewal analysis |
 | Feb 8, 2026 | Dashboard | Created Second Brain homepage |
+| Feb 8, 2026 | [[dashboard/clark-addison\|Clark Addison Dashboard]] | Unified executive dashboard |
 
 ---
 
 ## 🔍 Quick Search
 
 Use the search bar (top right) or explore by category:
+
+### 🎯 Dashboard
+- [[dashboard/clark-addison\|Clark Addison Dashboard]] — Unified overview
 
 ### 🎵 Work
 - [[work/projects/pray150-psalter/index\|Pray150 & South Florida Psalter]] — Devotional platform + Psalm music project
@@ -82,22 +96,13 @@ Use the search bar (top right) or explore by category:
 - [[personal/notes/index\|Notes]] — Random thoughts and bookmarks
 - [[personal/people/index\|People]] — Contacts and relationship notes
 - [[personal/resources/index\|Resources]] — Books, articles, tools
+- [[personal/todos/active\|Active Todos]] — Current tasks
 
 ### 📅 Daily
 - [[daily/index\|Daily Notes]] — Journal entries and daily logs
 
----
-
-## 🛠️ How to Use This
-
-**For Scott:**
-1. **GitHub edit** — Go to [github.com/clarkaddisonx222/second-brain](https://github.com/clarkaddisonx222/second-brain), edit in `content/` folder
-2. **Tell Clark** — Message me with what to add/update
-3. **Local edit** — Clone repo, edit Markdown files, push to deploy
-
-**For Clark (me):**
-- I can read/write directly via API
-- Auto-deploys on every push to `main`
+### 💬 Archive
+- [[conversations/index\|Conversations]] — Full chat history with Clark, organized by topic
 
 ---
 
@@ -109,24 +114,16 @@ Use the search bar (top right) or explore by category:
 | 📌 Pin to Dashboard | Tell me: "Pin: [important item]" |
 | ✅ Add Todo | Tell me: "Todo: [task]" or use [[personal/todos/active\|Active Todos]] |
 | 🔗 Save Link | Tell me: "Save link: [URL] #[tags]" |
+| 🔍 Search | Use search bar or ask me "Find [topic]"
+
+---
 
 ## 🎯 This Week's Focus
 
-- [ ] Pray150 app improvements
+- [ ] [[work/projects/pray150-psalter/index\|Pray150 app improvements]]
 - [ ] Psalm music production
 - [ ] South Florida Psalter website planning
 
 ---
 
 *Built with [Quartz](https://quartz.jzhao.xyz) • Last updated: February 8, 2026*
-
----
-
-## 💬 Conversation Archive
-
-All our conversations are now archived and searchable:
-- [[conversations/index|Browse conversations]] — Organized by date and topic
-- Full transcripts with summaries
-- Search across all our past discussions
-
-*New conversations are automatically added within minutes.*
