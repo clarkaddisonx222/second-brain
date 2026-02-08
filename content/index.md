@@ -87,6 +87,15 @@ Use the search bar (top right) or explore by category:
 
 ---
 
+## ✅ Quick Actions
+
+| Action | How |
+|--------|-----|
+| 📝 Quick Note | Tell me: "Note: [your thought]" |
+| 📌 Pin to Dashboard | Tell me: "Pin: [important item]" |
+| ✅ Add Todo | Tell me: "Todo: [task]" or use [[personal/todos/active\|Active Todos]] |
+| 🔗 Save Link | Tell me: "Save link: [URL] #[tags]" |
+
 ## 🎯 This Week's Focus
 
 - [ ] Pray150 app improvements
