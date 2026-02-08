@@ -119,3 +119,14 @@ Use the search bar (top right) or explore by category:
 ---
 
 *Built with [Quartz](https://quartz.jzhao.xyz) • Last updated: February 8, 2026*
+
+---
+
+## 💬 Conversation Archive
+
+All our conversations are now archived and searchable:
+- [[conversations/index|Browse conversations]] — Organized by date and topic
+- Full transcripts with summaries
+- Search across all our past discussions
+
+*New conversations are automatically added within minutes.*
