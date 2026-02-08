@@ -41,6 +41,20 @@ aliases:
 
 ---
 
+## 🔬 Recent Research
+
+*Latest findings from the research team — auto-populated by agents*
+
+| Date | Research | Author | Project |
+|------|----------|--------|---------|
+| Feb 8, 2026 | [[work/projects/pray150-psalter/research/worship-renewal-channel-profile\|Worship Renewal Channel Profile]] | Elise Hartwell | Pray150 |
+| Feb 8, 2026 | [[work/projects/pray150-psalter/research/elise-research-log\|Elise's Research Log]] | Elise Hartwell | Pray150 |
+| Feb 8, 2026 | [[work/projects/pray150-psalter/research/why-sing-the-psalms\|Why Sing the Psalms?]] | Elise Hartwell | Pray150 |
+
+**View all research:** [[work/projects/pray150-psalter/research/\|Research Archive]]
+
+---
+
 ## 📝 Recent Updates
 
 | Date | Page | Change |
