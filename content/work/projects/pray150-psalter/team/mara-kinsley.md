@@ -39,4 +39,18 @@ Creative, platform-savvy. Knows how to make content travel. Understands what sto
 4. TikTok (discovery engine, younger worship leaders)
 5. X/Twitter (thought leadership, theology conversations)
 
-## Status: Planned
+## Status: Active ✅
+
+**Skill Activated:** `social-media-manager`
+
+Mara now has access to the social media management skillset including:
+- Content calendar templates and posting schedules
+- Brand voice guidelines for Pray150/SFP
+- Post generation scripts for all platforms
+- Hashtag strategy and engagement tactics
+
+**Ready to:**
+- Create promotional content for new Psalm releases
+- Manage posting schedule across Instagram, YouTube, Facebook, Twitter/X
+- Generate engaging captions and graphics
+- Build community engagement
