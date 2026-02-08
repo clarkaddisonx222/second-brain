@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Scott&#039;s Second Brain</title>
+      <link>https://clarkaddisonx222.github.io/second-brain</link>
+      <description>Last 10 notes on Scott&#039;s Second Brain</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Daily Notes</title>
+    <link>https://clarkaddisonx222.github.io/second-brain/daily/</link>
+    <guid>https://clarkaddisonx222.github.io/second-brain/daily/</guid>
+    <description><![CDATA[ Journal entries and daily logs ]]></description>
+    <pubDate>Sun, 08 Feb 2026 18:27:56 GMT</pubDate>
+  </item><item>
+    <title>Scott&#039;s Second Brain</title>
+    <link>https://clarkaddisonx222.github.io/second-brain/</link>
+    <guid>https://clarkaddisonx222.github.io/second-brain/</guid>
+    <description><![CDATA[ Personal knowledge base — work projects, notes, and daily life ]]></description>
+    <pubDate>Sun, 08 Feb 2026 18:27:56 GMT</pubDate>
+  </item><item>
+    <title>Personal</title>
+    <link>https://clarkaddisonx222.github.io/second-brain/personal/</link>
+    <guid>https://clarkaddisonx222.github.io/second-brain/personal/</guid>
+    <description><![CDATA[ Personal notes, travel, people, and resources ]]></description>
+    <pubDate>Sun, 08 Feb 2026 18:27:56 GMT</pubDate>
+  </item><item>
+    <title>Notes</title>
+    <link>https://clarkaddisonx222.github.io/second-brain/personal/notes/</link>
+    <guid>https://clarkaddisonx222.github.io/second-brain/personal/notes/</guid>
+    <description><![CDATA[ Random thoughts, ideas, and bookmarks ]]></description>
+    <pubDate>Sun, 08 Feb 2026 18:27:56 GMT</pubDate>
+  </item><item>
+    <title>People</title>
+    <link>https://clarkaddisonx222.github.io/second-brain/personal/people/</link>
+    <guid>https://clarkaddisonx222.github.io/second-brain/personal/people/</guid>
+    <description><![CDATA[ Contacts, relationship notes, and important people ]]></description>
+    <pubDate>Sun, 08 Feb 2026 18:27:56 GMT</pubDate>
+  </item><item>
+    <title>Resources</title>
+    <link>https://clarkaddisonx222.github.io/second-brain/personal/resources/</link>
+    <guid>https://clarkaddisonx222.github.io/second-brain/personal/resources/</guid>
+    <description><![CDATA[ Books, articles, tools, and reference materials ]]></description>
+    <pubDate>Sun, 08 Feb 2026 18:27:56 GMT</pubDate>
+  </item><item>
+    <title>Travel</title>
+    <link>https://clarkaddisonx222.github.io/second-brain/personal/travel/</link>
+    <guid>https://clarkaddisonx222.github.io/second-brain/personal/travel/</guid>
+    <description><![CDATA[ Trip plans, itineraries, and travel memories ]]></description>
+    <pubDate>Sun, 08 Feb 2026 18:27:56 GMT</pubDate>
+  </item><item>
+    <title>Work Decisions</title>
+    <link>https://clarkaddisonx222.github.io/second-brain/work/decisions/</link>
+    <guid>https://clarkaddisonx222.github.io/second-brain/work/decisions/</guid>
+    <description><![CDATA[ ADRs and decision logs for work projects ]]></description>
+    <pubDate>Sun, 08 Feb 2026 18:27:56 GMT</pubDate>
+  </item><item>
+    <title>222.Disciple</title>
+    <link>https://clarkaddisonx222.github.io/second-brain/work/projects/222-disciple/</link>
+    <guid>https://clarkaddisonx222.github.io/second-brain/work/projects/222-disciple/</guid>
+    <description><![CDATA[ Digital-first discipleship platform ]]></description>
+    <pubDate>Sun, 08 Feb 2026 18:27:56 GMT</pubDate>
+  </item><item>
+    <title>Pray150 &amp; South Florida Psalter</title>
+    <link>https://clarkaddisonx222.github.io/second-brain/work/projects/pray150-psalter/</link>
+    <guid>https://clarkaddisonx222.github.io/second-brain/work/projects/pray150-psalter/</guid>
+    <description><![CDATA[ Devotional platform and Psalm music project ]]></description>
+    <pubDate>Sun, 08 Feb 2026 18:27:56 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
