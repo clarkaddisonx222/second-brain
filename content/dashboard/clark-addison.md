@@ -44,7 +44,7 @@ pinned: true
 | ⛪ **Church Adoption** | [[work/projects/pray150-psalter/team/josiah-crane\|Josiah Crane]] | ✅ Complete | CCLI strategy, pipeline |
 | 📱 **Social Media** | [[work/projects/pray150-psalter/team/mara-kinsley\|Mara Kinsley]] | ⚪ Profiled | Marketing, growth |
 | 🌐 **Web Developer** | [[work/projects/pray150-psalter/team/theo-voss\|Theo Voss]] | 🟡 Building | SFP website |
-| 🎹 **Worship Resources** | [[work/projects/pray150-psalter/team/selah-briggs\|Selah Briggs]] | ⚪ Profiled | Chord sheets, multitracks |
+| 🎹 **Worship Resources** | [[work/projects/pray150-psalter/team/selah-briggs\|Selah Briggs]] | 🟢 Active | Chord sheets - 1 published, 3 in review |
 
 **Team Hub:** [[work/projects/pray150-psalter/team/index|View All Team Profiles →]]
 
@@ -66,10 +66,10 @@ pinned: true
 | Component | Status | Last Update |
 |-----------|--------|-------------|
 | Psalm Catalog | 152 videos | Feb 8 |
-| Virtual Team | 7 agents active | Feb 8 |
+| Virtual Team | 7 agents active | Feb 26 |
 | CCLI Strategy | Analysis complete | Feb 8 |
-| Website | Built, deploying soon | Feb 8 |
-| Chord Charts | Psalms 1-5 drafted | Feb 26 |
+| Website | Theo queued for activation | Feb 26 |
+| Chord Charts | **Psalm 3 published** (B & G keys). Workflow established. Psalms 4,2,1 in production. | Feb 26 |
 
 **Quick Links:**
 - [[work/projects/pray150-psalter/research/why-sing-the-psalms|Research: Why Sing the Psalms?]]
@@ -88,9 +88,11 @@ pinned: true
 ## ✅ Priority Tasks
 
 ### This Week
-- [ ] [[work/projects/pray150-psalter/index|Pray150 app improvements]]
-- [ ] Psalm music production (next batch)
-- [ ] South Florida Psalter website launch
+- [x] [[work/projects/pray150-psalter/index|Psalm 3 chord chart published]] — B & G keys live
+- [ ] [[work/projects/pray150-psalter/active-work-log|Psalms 4, 2, 1 chord charts]] — In production with verified workflow
+- [ ] [[work/projects/pray150-psalter/process/chord-chart-creation-process|Document & templatize workflow]] — For scaling to 150
+- [ ] [[work/projects/pray150-psalter/website|SFP Website]] — Activate Theo for build
+- [ ] [[work/projects/pray150-psalter/ccli|CCLI Registration]] — Josiah to execute strategy
 
 ### Quick Capture
 - [ ] [[personal/todos/active|View all active todos →]]

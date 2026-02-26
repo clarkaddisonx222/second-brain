@@ -40,8 +40,10 @@ Quick access to projects, tasks, costs, recent activity, and system status.
 
 | Project | Status | Last Updated |
 |---------|--------|--------------|
-| [[work/projects/pray150-psalter/index\|Pray150 & South Florida Psalter]] | 🟢 Active | Feb 8, 2026 |
+| [[work/projects/pray150-psalter/index\|Pray150 & South Florida Psalter]] | 🟢 Active | Feb 26, 2026 |
 | [[work/projects/222-disciple/index\|222.Disciple]] | 🟡 Planning | — |
+
+**Current Milestone:** Psalm chord chart workflow established. 1 Psalm published (Psalm 3), 3 in active production with multi-tool verification process.
 
 ### Personal
 
@@ -69,10 +71,11 @@ Quick access to projects, tasks, costs, recent activity, and system status.
 
 | Date | Page | Change |
 |------|------|--------|
+| Feb 26, 2026 | [[work/projects/pray150-psalter/active-work-log\|Active Work Log]] | Psalm 3 chord chart published (B & G keys). Multi-tool verification workflow established. |
+| Feb 26, 2026 | [[work/projects/pray150-psalter/process/chord-chart-creation-process\|Chord Chart Process]] | Gold-standard workflow documented: Chordify + chord-analysis + manual verification |
+| Feb 26, 2026 | [[work/projects/pray150-psalter/team/selah-briggs\|Selah Briggs]] | Activated for worship resources production - 3 Psalms in review |
 | Feb 8, 2026 | [[work/projects/pray150-psalter/index\|Pray150 Overview]] | Migrated full project docs |
 | Feb 8, 2026 | [[work/projects/pray150-psalter/research/elise-research-log\|Elise's Research Log]] | Added worship renewal analysis |
-| Feb 8, 2026 | Dashboard | Created Second Brain homepage |
-| Feb 8, 2026 | [[dashboard/clark-addison\|Clark Addison Dashboard]] | Unified executive dashboard |
 
 ---
 
@@ -120,10 +123,19 @@ Use the search bar (top right) or explore by category:
 
 ## 🎯 This Week's Focus
 
-- [ ] [[work/projects/pray150-psalter/index\|Pray150 app improvements]]
-- [ ] Psalm music production
-- [ ] South Florida Psalter website planning
+- [x] [[work/projects/pray150-psalter/index\|Psalm 3 chord chart]] — Published (B & G keys)
+- [ ] [[work/projects/pray150-psalter/active-work-log\|Psalms 4, 2, 1]] — In production with verified workflow
+- [ ] [[work/projects/pray150-psalter/process/chord-chart-creation-process\|Scale to 150 Psalms]] — Document and templatize process
+- [ ] [[work/projects/pray150-psalter/website\|SFP Website]] — Pending Theo activation
+- [ ] [[work/projects/pray150-psalter/ccli\|CCLI Registration Strategy]] — Josiah pending
+
+**Team Status:**
+- 🎹 Selah Briggs: Active (chord charts)
+- 📋 Micah Torres: Complete (catalog)
+- 📚 Elise Hartwell: Active (research)
+- ⛪ Josiah Crane: Pending (CCLI)
+- 🌐 Theo Voss: Queued (website)
 
 ---
 
-*Built with [Quartz](https://quartz.jzhao.xyz) • Last updated: February 8, 2026*
+*Built with [Quartz](https://quartz.jzhao.xyz) • Last updated: February 26, 2026*
