@@ -1,0 +1,14 @@
+{
+  "name": "openclaw-google-drive",
+  "version": "1.0.0",
+  "description": "Google Drive integration for OpenClaw",
+  "main": "google-drive-helper.js",
+  "scripts": {
+    "auth": "node google-drive-auth.js",
+    "test": "node test-drive-access.js"
+  },
+  "dependencies": {
+    "googleapis": "^133.0.0",
+    "google-auth-library": "^9.6.3"
+  }
+}
