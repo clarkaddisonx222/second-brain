@@ -138,4 +138,4 @@ Use the search bar (top right) or explore by category:
 
 ---
 
-*Built with [Quartz](https://quartz.jzhao.xyz) • Last updated: February 26, 2026*
+*Built with [Quartz](https://quartz.jzhao.xyz) • Last updated: February 27, 2026*
