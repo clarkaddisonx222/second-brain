@@ -66,10 +66,10 @@ pinned: true
 | Component | Status | Last Update |
 |-----------|--------|-------------|
 | Psalm Catalog | 152 videos | Feb 8 |
-| Virtual Team | 7 agents active | Feb 26 |
+| Virtual Team | 7 agents active | Mar 1 |
 | CCLI Strategy | Analysis complete | Feb 8 |
-| Website | Theo queued for activation | Feb 26 |
-| Chord Charts | **Psalm 3 published** (B & G keys). Workflow established. Psalms 4,2,1 in production. | Feb 26 |
+| Website | Theo queued for activation | Mar 1 |
+| Chord Charts | **Psalm 4 completed** (B Major, NIV-verified). Gold-standard workflow established. Psalm 3 published. | Mar 1 |
 
 **Quick Links:**
 - [[work/projects/pray150-psalter/research/why-sing-the-psalms|Research: Why Sing the Psalms?]]
@@ -89,7 +89,8 @@ pinned: true
 
 ### This Week
 - [x] [[work/projects/pray150-psalter/index|Psalm 3 chord chart published]] — B & G keys live
-- [ ] [[work/projects/pray150-psalter/active-work-log|Psalms 4, 2, 1 chord charts]] — In production with verified workflow
+- [x] [[work/projects/pray150-psalter/active-work-log|Psalm 4 chord chart]] — COMPLETE (B Major, NIV-verified)
+- [ ] [[work/projects/pray150-psalter/active-work-log|Psalms 2, 1 chord charts]] — In production with verified workflow
 - [ ] [[work/projects/pray150-psalter/process/chord-chart-creation-process|Document & templatize workflow]] — For scaling to 150
 - [ ] [[work/projects/pray150-psalter/website|SFP Website]] — Activate Theo for build
 - [ ] [[work/projects/pray150-psalter/ccli|CCLI Registration]] — Josiah to execute strategy
@@ -180,4 +181,4 @@ pinned: true
 
 ---
 
-*Last updated: February 26, 2026 (1:00 AM UTC) • Built with [Quartz](https://quartz.jzhao.xyz)*
+*Last updated: March 1, 2026 (1:00 AM UTC) • Built with [Quartz](https://quartz.jzhao.xyz)*
