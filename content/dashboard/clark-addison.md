@@ -118,6 +118,10 @@ pinned: true
 | Time | Event | Source |
 |------|-------|--------|
 | 1:00 AM | Evening dashboard update | [[memory/2026-02-26|Daily Notes]] |
+| Mar 6 | Evening dashboard update — Quiet end to week | [[daily/2026-03-06-evening\|Daily Notes]] |
+| Mar 5 | Morning dashboard — Week 10 Thursday momentum | [[daily/2026-03-05\|Daily Notes]] |
+| Mar 4 | Morning dashboard — Marissa's birthday! 🎉 | [[daily/2026-03-04-morning\|Daily Notes]] |
+| Mar 3 | Morning dashboard update | [[daily/2026-03-03-morning\|Daily Notes]] |
 | Feb 9 | Psalm 1-5 chord charts created | [[work/projects/pray150-psalter/resources/\|Resources]] |
 | Feb 9 | Selah Briggs activated for chord production | [[work/projects/pray150-psalter/team/selah-briggs\|Team]] |
 | Feb 8 | Conversation archive created | [[conversations/2026-02-08/building-second-brain|Today's Conversation]] |
@@ -181,4 +185,4 @@ pinned: true
 
 ---
 
-*Last updated: March 2, 2026 (1:00 AM UTC) • Built with [Quartz](https://quartz.jzhao.xyz)*
+*Last updated: March 6, 2026 (1:00 AM UTC) • Built with [Quartz](https://quartz.jzhao.xyz)*
