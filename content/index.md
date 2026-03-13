@@ -124,7 +124,8 @@ Use the search bar (top right) or explore by category:
 ## 🎯 This Week's Focus
 
 - [x] [[work/projects/pray150-psalter/index\|Psalm 3 chord chart]] — Published (B & G keys)
-- [ ] [[work/projects/pray150-psalter/active-work-log\|Psalms 4, 2, 1]] — In production with verified workflow
+- [x] [[work/projects/pray150-psalter/active-work-log\|Psalm 4]] — Complete with NIV-verified lyrics
+- [ ] [[work/projects/pray150-psalter/active-work-log\|Psalms 2, 1]] — Drafted, pending verification
 - [ ] [[work/projects/pray150-psalter/process/chord-chart-creation-process\|Scale to 150 Psalms]] — Document and templatize process
 - [ ] [[work/projects/pray150-psalter/website\|SFP Website]] — Pending Theo activation
 - [ ] [[work/projects/pray150-psalter/ccli\|CCLI Registration Strategy]] — Josiah pending
@@ -133,9 +134,9 @@ Use the search bar (top right) or explore by category:
 - 🎹 Selah Briggs: Active (chord charts)
 - 📋 Micah Torres: Complete (catalog)
 - 📚 Elise Hartwell: Active (research)
-- ⛪ Josiah Crane: Pending (CCLI)
+- ⛪ Josiah Crane: Ready (CCLI strategy complete)
 - 🌐 Theo Voss: Queued (website)
 
 ---
 
-*Built with [Quartz](https://quartz.jzhao.xyz) • Last updated: March 10, 2026*
+*Built with [Quartz](https://quartz.jzhao.xyz) • Last updated: March 12, 2026*
