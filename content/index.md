@@ -4,6 +4,7 @@ description: "Personal knowledge base — work projects, notes, and daily life"
 aliases:
   - dashboard
   - home
+date: 2026-03-18
 ---
 
 # 🧠 Scott's Second Brain
