@@ -117,6 +117,11 @@ pinned: true
 
 | Time | Event | Source |
 |------|-------|--------|
+| Apr 14 | Evening dashboard update — Day 34 of quiet period | [[daily/2026-04-14-evening\|Daily Notes]] |
+| Apr 14 | Morning dashboard update — Day 66 begins | [[daily/2026-04-14\|Daily Notes]] |
+| Apr 10 | Evening dashboard update — Day 30 of quiet period | [[daily/2026-04-10|Daily Notes]] |
+| Apr 9 | Morning dashboard update — Post-birthday day | [[daily/2026-04-09|Daily Notes]] |
+| Apr 8 | Morning dashboard update — Kate's birthday! 🎂 | [[daily/2026-04-08|Daily Notes]] |
 | 1:00 AM | Evening dashboard update | [[memory/2026-02-26|Daily Notes]] |
 | Mar 6 | Evening dashboard update — Quiet end to week | [[daily/2026-03-06-evening\|Daily Notes]] |
 | Mar 5 | Morning dashboard — Week 10 Thursday momentum | [[daily/2026-03-05\|Daily Notes]] |
@@ -185,4 +190,4 @@ pinned: true
 
 ---
 
-*Last updated: March 10, 2026 (12:00 AM UTC) • Built with [Quartz](https://quartz.jzhao.xyz)*
+*Last updated: April 15, 2026 (12:00 AM UTC) • Built with [Quartz](https://quartz.jzhao.xyz)*
